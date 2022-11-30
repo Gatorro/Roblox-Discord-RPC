@@ -19,6 +19,7 @@
 15. ![image](https://user-images.githubusercontent.com/118382938/204690339-52a01cc3-ba63-4fe8-a44f-f5cb76256804.png)
 ## Roblox RPC
 If you have Python Installed:
+1. Install the Library "websocket-server" with ``pip install websocket-server`` on your CMD.
 1. Run _**websocket.py**_
 2. Find the folder where your Exploit is located.
 3. Put the Lua Script inside _**autoexec**_ (_**DiscordRPC.lua**_)

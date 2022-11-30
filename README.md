@@ -21,10 +21,11 @@
 If you have Python Installed:
 1. Install the Library "websocket-server" with ``pip install websocket-server`` on your CMD.
 2. Install the Library "pypresence" with ``pip install pypresence`` on your CMD.
-3. Run _**websocket.py**_
-4. Find the folder where your Exploit is located.
-5. Put the Lua Script inside _**autoexec**_ (_**DiscordRPC.lua**_)
-6. Rejoin if you are playing while putting the script in.
+3. Install the Library "requests" with ``pip install requests`` on your CMD.
+4. Run _**websocket.py**_
+5. Find the folder where your Exploit is located.
+6. Put the Lua Script inside _**autoexec**_ (_**DiscordRPC.lua**_)
+7. Rejoin if you are playing while putting the script in.
 ## Others
 If you want to connect again to the websocket without rejoining say "_**rpc.connect**_" or "_**rpc.c**_" (In the Chat)
 ## Preview

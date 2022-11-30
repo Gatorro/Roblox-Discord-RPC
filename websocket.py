@@ -8,7 +8,16 @@ import re
 
 clients = {}
 
-rpc = Presence("1047295381496676383") 
+#=============<>=============#
+
+______THE_APPLICATION_ID______ = ""
+
+#=============<>=============#
+
+
+
+
+rpc = Presence(______THE_APPLICATION_ID______) 
 rpc.connect()
 timee = int(time.time())
 

@@ -13,6 +13,10 @@
 9. ![image](https://user-images.githubusercontent.com/118382938/204681553-1eb73d96-dc31-41a0-a3b9-1c99e1639636.png)
 10. Set name to _**roblox512**_ and Save.
 11. ![](https://live.staticflickr.com/65535/52532583646_6f7f4e5ef0_o.png)
+12. Copy your Application Id
+13. ![image](https://user-images.githubusercontent.com/118382938/204690233-5c7d9795-75b0-45eb-859f-cd8d3194e7a6.png)
+14. Paste your Application Id on the _**websocket.py**_ script
+15. ![image](https://user-images.githubusercontent.com/118382938/204690339-52a01cc3-ba63-4fe8-a44f-f5cb76256804.png)
 ## Roblox RPC
 If you have Python Installed:
 1. Run _**websocket.py**_
